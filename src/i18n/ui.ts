@@ -54,6 +54,10 @@ export const ui = {
     'hero.title.second': 'en nuestra comunidad',
     'hero.paragraph': 'El conocimiento se multiplica cuando lo compartimos',
     'hero.button': 'Crece compartiendo',
+    // finatl cta
+    'finalCTA.title': '¿A qué estás esperando?',
+    'finalCTA.description': 'Descubre lo que podemos crear juntos',
+    'finalCTA.button': '¡Empezar a crear!',
     // values
     'values.title': 'Nuestros valores',
     'values.section.free.learning': 'Aprendizaje libre',
@@ -100,6 +104,10 @@ export const ui = {
     'hero.title.second': 'in our community',
     'hero.paragraph': 'Knowledge multiples when we share it',
     'hero.button': 'Grow by sharing',
+    // finalCTA
+    'finalCTA.title': 'What are you waiting for?',
+    'finalCTA.description': 'Discover what we can create together',
+    'finalCTA.button': 'Start to create!',
     // values
     'values.title': 'Our Values',
     'values.section.free.learning': 'Free learning',
